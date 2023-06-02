@@ -1,2 +1,8 @@
-# Painting_Game
-A Client-Server Connection Painting Game
+# Drawing Quiz Game
+
+## Demo 
+
+## Getting Started
+### Prerequisites
+### Installation
+### Running Ecoute
